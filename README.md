@@ -1,5 +1,5 @@
 # CB1-setup
-Steps I take after flashing the btt cb1 os image to an sd card as of Sep 13 2022
+Steps I take after flashing the btt cb1 os image to an sd card as of [v2.1.2](https://github.com/bigtreetech/CB1/releases/tag/V2.1.2)
 
 1. Flash the OS Image from [here](https://github.com/bigtreetech/CB1/releases)
 2. Set the wifi information in /boot/system.cfg
